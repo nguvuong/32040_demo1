@@ -16,6 +16,9 @@ public class DemoGit2 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("First commit");
+        int a = 0; 
+        int b = 1; 
+        int c = 2;
     }
     
 }
